@@ -24,5 +24,5 @@ function App() {
   ) 
   
 }
-
+// VIDEO PAROU 17:34
 export default App
